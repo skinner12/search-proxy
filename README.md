@@ -1,4 +1,4 @@
-# SEARCH PROXY | [Articolo](https://www.rmazzu.com/articoli/usare-nmap-per-trovare-proxy-server/ "RMAZZU.com la casa del codice")
+# SEARCH PROXY | [Article](https://www.rmazzu.com/articoli/usare-nmap-per-trovare-proxy-server/ "RMAZZU.com la casa del codice")
 
 
 
