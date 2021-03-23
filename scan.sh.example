@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+# Multiple instance of scanner
+#
+# https://www.nirsoft.net/countryip/it.html
+# https://www.ipaddressguide.com/cidr
+
+#code run
+./proxyscan.sh 2.1.0.0/13 &
+./proxyscan.sh 2.1.1.0/14 &
+
+wait
+echo "All SCAN complete"
