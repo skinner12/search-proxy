@@ -1,4 +1,4 @@
-# SEARCH PROXY
+# SEARCH PROXY | [Articolo](https://www.rmazzu.com/articoli/usare-nmap-per-trovare-proxy-server/ "RMAZZU.com la casa del codice")
 
 A simple program to scan **NET** looking for *socks 4/5* proxy or *http* proxy.  
 
